@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+.harness_logs/
+*.log
+
+bin/
+*.test
+coverage.out
+
+.DS_Store
+
